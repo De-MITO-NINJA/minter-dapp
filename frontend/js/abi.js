@@ -1,4 +1,7 @@
 const abi = [{
+    "response": "OK",
+    "abi": [
+      {
         "inputs": [
           {
             "components": [
@@ -1558,5 +1561,8 @@ const abi = [{
         "name": "withdrawFees",
         "outputs": [],
         "stateMutability": "nonpayable",
-        "type": "function"
-      }];
+        "type": "function",
+        "signature": "0x476343ee"
+      }
+    ]
+  }];
