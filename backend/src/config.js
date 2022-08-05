@@ -53,7 +53,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://de-mito-ninja.netlify.app", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://de-mito-ninj4.netlify.app", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
