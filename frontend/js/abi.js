@@ -1,6 +1,8 @@
-const_abi = [
+const_abi = [{
+    "response": "OK",
+    "abi": [
     {
-     "inputs": [
+    "inputs": [
       {
         "components": [
           {
@@ -1559,6 +1561,9 @@ const_abi = [
     "name": "withdrawFees",
     "outputs": [],
     "stateMutability": "nonpayable",
-    "type": "function"
+    "type": "function",
+    "signature": "0x476343ee"
   }
-];
+]
+}]
+    
