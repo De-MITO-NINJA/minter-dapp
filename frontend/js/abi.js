@@ -1,4 +1,4 @@
-const abi = [
+const_abi = [
   {
     inputs: [],
     stateMutability: "nonpayable",
