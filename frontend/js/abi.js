@@ -1,5 +1,5 @@
 const abi = [
-{
+  {
     inputs: [],
     stateMutability: "nonpayable",
     type: "constructor",
@@ -1567,4 +1567,5 @@ const abi = [
     "stateMutability": "nonpayable",
     "type": "function",
     "signature": "0x476343ee"
-  }];
+  }
+];
