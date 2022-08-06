@@ -22,7 +22,7 @@ const button_public_mint = "Mint Your NFT";
 const mint_failed = "Minting failed. 😢 Please try again.";
 
 [
-{
+  {
     "inputs": [
       {
         "components": [
