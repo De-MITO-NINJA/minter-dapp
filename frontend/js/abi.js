@@ -1,6 +1,4 @@
-const_abi = [{
-    "response": "OK",
-    "abi": [
+const_abi = [
     {
     "inputs": [
       {
@@ -1564,6 +1562,5 @@ const_abi = [{
     "type": "function",
     "signature": "0x476343ee"
   }
-]
-}]
+];
     
