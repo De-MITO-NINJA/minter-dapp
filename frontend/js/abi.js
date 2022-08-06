@@ -1,4 +1,5 @@
-const abi = [{
+const abi = [
+  {
     "inputs": [
         {
           "components": [
@@ -1559,4 +1560,5 @@ const abi = [{
       "outputs": [],
       "stateMutability": "nonpayable",
       "type": "function"
-    }];
+    }
+];
