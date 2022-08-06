@@ -23,6 +23,12 @@ const mint_failed = "Minting failed. 😢 Please try again.";
 
 const abi = [
   {
+    inputs: [],
+    stateMutability: "nonpayable",
+    type: "constructor",
+  },
+  {
+    anonymous: false,
     "inputs": [
       {
         "components": [
