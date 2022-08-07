@@ -53,7 +53,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://de-mito-ninj4.netlify.app", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://linktr.ee/Mitowise", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -74,10 +74,10 @@ const MINT_PRICE = 0.001; // Minting price per NFT. Rinkeby = ETH, Ethereum = ET
 const TOKENS_PER_MINT = 5; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-08-08T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-08-09T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = "2022-08-05T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = "2022-08-06T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0xD8C0326cf257D424c4a506F401eEa71Fb69aC3C4"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
@@ -108,12 +108,12 @@ try {
 // END NFTPort Info
 
 const solanaMetadata = {
-  symbol: "YC",
+  symbol: "DeMINI",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  external_url: "https://youtube.com/channel/UC-f0777SxAuwyCit-p5q7pw",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "7LD1zCpoNAaAqfN84HFKUzgobWHBzqYsfEgf2Q7ewixn",
       share: 100,
     },
   ],
