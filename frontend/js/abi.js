@@ -1,4 +1,11 @@
-const_abi = [{
+const_abi = [
+  {
+    inputs: [],
+    stateMutability: "nonpayable",
+    type: "constructor",
+  },
+  {
+    anonymous: false,
   "inputs": [
     {
       "components": [
