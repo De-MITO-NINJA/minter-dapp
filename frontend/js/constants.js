@@ -22,9 +22,15 @@ const button_public_mint = "Mint Your NFT";
 const mint_failed = "Minting failed. 😢 Please try again.";
 
 const abi = [
-  {
-    "inputs": [
       {
+        inputs: [],
+        stateMutability: "nonpayable",
+        type: "constructor",
+      },
+      {
+        anonumous: false,
+        inputs: [
+          {
         "components": [
           {
             "internalType": "string",
