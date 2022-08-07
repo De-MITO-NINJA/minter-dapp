@@ -284,7 +284,8 @@ function setTotalPrice() {
     mintButton.disabled = true;
     mintInput.disabled = true;
     return;
-  
+  }{
+  const mintInput = mintInputValue
   const totalPriceWei = BigInt(info.deploymentConfig.mintPrice) * BigInt(mintInputValue);
   }
   let priceType = '';
