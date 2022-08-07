@@ -1,5 +1,10 @@
 const_abi = [
     {
+      inputs: [],
+      stateMutability: "nonpayable",
+      type: "constructor",
+    },
+    {
     "inputs": [
       {
         "components": [
