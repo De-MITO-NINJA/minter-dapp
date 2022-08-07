@@ -1558,7 +1558,6 @@ const_abi = [{
   "name": "withdrawFees",
   "outputs": [],
   "stateMutability": "nonpayable",
-  "type": "function",
-  "signature": "0x476343ee"
+  "type": "function"
 }];
     
